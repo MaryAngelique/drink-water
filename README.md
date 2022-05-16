@@ -24,7 +24,7 @@ Users should be able to:
 
 
 ### Project Demo
-
+[![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/51681480/168502867-ada71457-50c5-493b-b3ef-8ed1e136377f.jpeg)](https://www.loom.com/share/3a31f4728d2944a6a44fe8c057e5f56c)
 
 ### Links
 
